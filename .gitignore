@@ -1,0 +1,7 @@
+.vscode
+**/__pycache__/**
+img
+**/*.jpg
+**/*.png
+**/*.svg
+**/*.root
