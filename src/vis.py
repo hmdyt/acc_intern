@@ -1,9 +1,7 @@
-from cProfile import label
 from typing import Dict, List
 import matplotlib.pyplot as plt
 import numpy as np
 import time
-import multiprocessing
 
 FILE_MANE = "data/test01.csv"
 OUTPUT_PATH = "img/test01.jpg"
